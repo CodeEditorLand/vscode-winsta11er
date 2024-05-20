@@ -1,13 +1,8 @@
 {
-	"name": "vscode-winsta11er-build",
-	"scripts": {
-		"Document": "Document 'Source/**/*.ts'",
-		"prepublishOnly": "Build 'Source/**/*.ts'"
-	},
-	"dependencies": {
-		"tmp": "0.2.3"
-	},
-	"devDependencies": {
-		"@playform/build": "0.0.7"
-	}
+  "name": "vscode-winsta11er-build",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "tmp": "^0.2.1"
+  }
 }
