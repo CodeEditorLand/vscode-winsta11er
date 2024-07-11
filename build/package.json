@@ -1,6 +1,0 @@
-{
-	"name": "vscode-winsta11er-build",
-	"dependencies": {
-		"tmp": "0.2.3"
-	}
-}
