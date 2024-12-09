@@ -1,7 +1,7 @@
 {
+	"name": "@codeeditorland/winsta11er-build",
 	"dependencies": {
 		"tmp": "0.2.3"
 	},
-	"devDependencies": {},
-	"name": "@codeeditorland/winsta11er-build"
+	"devDependencies": {}
 }
