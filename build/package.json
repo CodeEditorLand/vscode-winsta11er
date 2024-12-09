@@ -2,5 +2,6 @@
 	"dependencies": {
 		"tmp": "0.2.3"
 	},
-	"name": "vscode-winsta11er-build"
+	"devDependencies": {},
+	"name": "@codeeditorland/winsta11er-build"
 }
